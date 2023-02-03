@@ -4,7 +4,7 @@
   "description": "Rxjs demo",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/webpack-dev-server"
+    "start": "./node_modules/.bin/webpack-dev-server --mode development --open --port=8081"
   },
   "repository": {
     "type": "git",
